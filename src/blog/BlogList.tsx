@@ -45,28 +45,28 @@ const Posts = [
         <p class="mb-4 text-gray-700 leading-relaxed">Blockchain isn't just a tech trend; it's a fundamental shift in how we can manage and share information with unprecedented levels of trust and transparency. It's still evolving, but its potential to reshape industries, from finance to healthcare to logistics, is undeniable.</p>
 
         <p class="mb-8 text-gray-700 leading-relaxed">So, the next time you hear "blockchain," don't be intimidated. Think of it as a super-secure, shared digital record book that's making the world a more transparent and trustworthy place, one linked "page" at a time.</p>`,
-    image: '/src/blog/News1.jpg'
+    image: '/blog/News1.jpg'
   },
   {
     title: 'First Crypto Trade',
     slug: 'first-crypto-trade',
     headline: 'A beginner’s guide to making your first crypto trade.',
     description: 'A beginner’s guide to making your first crypto trade.',
-    image: '/src/blog/News2.jpg'
+    image: '/blog/News2.jpg'
   },
   {
     title: 'Future of DeFi',
     slug: 'future-of-defi',
     headline: 'Explore how decentralized finance is changing the game.',
     description: 'Explore how decentralized finance is changing the game.',
-    image: '/src/blog/News3.jpg'
+    image: '/blog/News3.jpg'
   },
   {
     title: 'Safeguarding Your Crypto',
     slug: 'safeguarding-investments',
     headline: 'Tips on securing your crypto assets from threats.',
     description: 'Tips on securing your crypto assets from threats.',
-    image: '/src/blog/News4.jpg'
+    image: '/blog/News4.jpg'
   },
 ];
 
