@@ -206,9 +206,11 @@ const LandingPage: React.FC = () => {
 
       {/* Centered Button */}
       <div className="flex justify-center mt-10">
-        <a href="/event" className="bg-yellow-400 text-black px-6 py-3 rounded-xl font-semibold hover:bg-yellow-500 transition-colors">
+        <form action="/event">
+        <button className="bg-yellow-400 text-black px-6 py-3 rounded-xl font-semibold hover:bg-yellow-500 transition-colors">
           Register Fast!
-        </a>
+        </button>
+        </form>
       </div>
 
 
