@@ -8,15 +8,15 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // Carousel styl
 
 // Sample images - Replace with your actual image paths
 const heroImages = [
-  '/src/events/Event1.jpg',
-  '/src/events/Event2.jpg',
+  'src/events/Event1.jpg',
+  'src/events/Event2.jpg',
 ];
 
 const blogImages = [
-  '/src/blog/News1.jpg',
-  '/src/blog/News2.jpg',
-  '/src/blog/News3.jpg',
-  '/src/blog/News4.jpg',
+  'src/blog/News1.jpg',
+  'src/blog/News2.jpg',
+  'src/blog/News3.jpg',
+  'src/blog/News4.jpg',
 ];
 
 // Sample blog data - Replace with your actual blog data
