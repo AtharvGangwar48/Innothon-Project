@@ -47,7 +47,7 @@ const Login: React.FC = () => {
         <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 border border-white/20">
           <div className="text-center">
             <h2 className="text-3xl font-bold text-white mb-2">Welcome Back</h2>
-            <p className="text-gray-300">Sign in to your CryptoSim account</p>
+            <p className="text-gray-300">Sign in to your Cryptoez account</p>
           </div>
 
           <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
