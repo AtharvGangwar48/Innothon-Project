@@ -42,16 +42,16 @@ const Footer = () => {
         <div>
           <h3 className="text-sm font-semibold uppercase mb-2">Follow Us</h3>
           <div className="flex space-x-4 mt-2">
-            <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
+            <a href="http://x.com/Atharv_48" target="_blank" rel="noopener noreferrer">
               <Twitter className="w-5 h-5 hover:text-white" />
             </a>
-            <a href="https://instagram.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/atharv_gangwar.48" target="_blank" rel="noopener noreferrer">
               <Instagram className="w-5 h-5 hover:text-white" />
             </a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+            <a href="https://linkedin.com/in/atharvgangwar" target="_blank" rel="noopener noreferrer">
               <Linkedin className="w-5 h-5 hover:text-white" />
             </a>
-            <a href="https://github.com/yourusername/cryptoclarity" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/AtharvGangwar48" target="_blank" rel="noopener noreferrer">
               <Github className="w-5 h-5 hover:text-white" />
             </a>
           </div>
